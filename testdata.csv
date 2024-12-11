@@ -1,0 +1,5 @@
+Name,Type,FlowRate,Parent,Dams
+Columbia,River,7400,,Grand Coulee Dam (1942); Bonneville Dam (1938)
+Snake,River,1500,Columbia,Hells Canyon Dam (1967); Little Goose Dam (1970)
+Willamette,River,1200,Columbia,Willamette Falls Dam (1885)
+Missouri,River,2600,,Gavins Point Dam (1957); Fort Peck Dam (1940)
